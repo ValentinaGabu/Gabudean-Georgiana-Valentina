@@ -26,7 +26,10 @@ Testing process
 
 The test process was performed based on the standard test process as described below.
 
+
+
 1.1 Test planning
+
 
 The Test Plan is designed to describe all details of testing for all the modules from the Orange HRM Demo application.
 
@@ -34,7 +37,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 The test plan that was created for this project can be found here [test_plan .docx](https://github.com/user-attachments/files/15876476/test_plan.docx)
 
+
 1.1.1. Roles asigned to the project and persons allocated
+
 
 Project manager: Maya Robins
 
@@ -44,7 +49,9 @@ Software developer: Karina Shan
 
 QA Engineer: Gabudean Valentina
 
+
 1.1.2 Entry criteria defined
+
 
 Documentation Review
 
@@ -60,7 +67,9 @@ Accessibility and Compatibility
 
 Testing Tools and Data
 
+
 1.1.3 Exit criteria defined
+
 
 Functional coverage
 
@@ -78,7 +87,9 @@ Regression Testing
 
 Documentation and Reporting
 
+
 1.1.4 Test scope
+
 
 Tests in scope:
 
@@ -103,7 +114,9 @@ Tests in scope:
    - User interface testing to evaluate design consistancy and user experinece
 
 
+
 Tests not in scope:
+
 
 1. Legacy Browser Compatibility:
    
@@ -113,7 +126,9 @@ Tests not in scope:
    
    - Deep analysing of network security protocols beyond the website scope
 
+
 1.1.5 Risks detected
+
 
 Project risks:
 
@@ -127,21 +142,29 @@ Product risks:
 Improper Functionality
 Complicated navigation
 
+
 1.1.6 Evaluating entry criteria
+
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
+
 1.2 Test Monitoring and Control
+
 
 The monitoring and control stage in testing is crucial for tracking the oricess of testing, identifying deviations from the initial plan, and ensuring that objectives and acceptance criteria are efficiently met. This stage allows the testing team to adapt strategies and activities in real-time based on the results and findings from the testing process.
 
 How the monitoring and control stage was conducted:
+
 We implemented the monitoring and control stage using Zephyr for Jira to manage and report testing progress effectively.
+
 We used Zephyr to generate regular status reports, including test status report and testing matrics such as the nnumber of planned tests, executed tests and their autcomes.
 
 ![raport de executie](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/4bf9f73b-c728-41fe-bb29-35e3fbf6439c)
 
+
 1.3 Test Analysis
+
 
 The testing process will be executed based on the application requirements. 
 
@@ -149,21 +172,29 @@ The following test conditions were found:
 
 ![conditii de testare](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/5855b7e4-5446-4923-adf8-1bb9e9d7a5ff)
 
+
 1.4 Test Design
+
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:
 
 [Test case-uri.pdf](https://github.com/user-attachments/files/15883703/Test.case-uri.pdf)
 
+
 1.5 Test Implementation
+
 
 The following elements are needed to be ready before the test execution phase begins:
 
 Testing Environment
+
 Testing Tools
+
 Test Data
 
+
 1.6. Test Execution
+
 
 Test cases are executed on the created test Cycle summary: 
 
@@ -183,7 +214,9 @@ Can not select date of birth - medium prority, medium severity
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
+
 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+
 
 The traceability matrix was generated and can be found here: 
 
