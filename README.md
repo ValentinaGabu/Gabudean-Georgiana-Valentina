@@ -45,22 +45,37 @@ Software developer: Karina Shan
 QA Engineer: Gabudean Valentina
 
 1.1.2 Entry criteria defined
+
 Documentation Review
+
 Environment Setup
+
 Features Completeness
+
 Content Readliness
+
 User Permission
+
 Accessibility and Compatibility
+
 Testing Tools and Data
 
 1.1.3 Exit criteria defined
+
 Functional coverage
+
 Performance and Scalability
+
 Security
+
 Usability and User Experience
+
 Cross-Browser and Cross-Device
+
 Compatibility
+
 Regression Testing
+
 Documentation and Reporting
 
 1.1.4 Test scope
