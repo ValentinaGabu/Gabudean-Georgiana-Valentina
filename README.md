@@ -134,13 +134,17 @@ Tests not in scope:
 Project risks:
 
 Budgent overrun
+
 Lack of resources
+
 Change in requirement
+
 Delivery delays
 
 Product risks:
 
 Improper Functionality
+
 Complicated navigation
 
 
