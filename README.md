@@ -13,11 +13,12 @@ Use the fallowing info to log in:
 Functional specifications:
 The below story was created in Jira and describes the functional specifications of the My info module, for which the final project is performed upon.
 
-![story](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/0f75df17-4f10-4cf4-975e-f08ca2af8ba8)
+![story nou 1](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/158dc8b5-c5c3-4e13-9cc3-401ac877ca96)
 
-![story 1 ](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/05983c82-bd39-4c21-940c-33de5990f225)
+![story nou 2](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/643dac6d-894c-496e-a6ec-56649d2daaed)
 
 Here you can find the release that was created for this project:
+
 
 ![realease](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/507dfa0c-4cd4-448a-a183-2b372e21b5ed)
 ![release 1](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/87e47840-7571-44b8-974b-7bfef284fb9d)
