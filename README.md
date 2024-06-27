@@ -184,7 +184,8 @@ The following test conditions were found:
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:
 
-[Test case-uri.pdf](https://github.com/user-attachments/files/15883703/Test.case-uri.pdf)
+[Test cases.pdf](https://github.com/user-attachments/files/16017586/Test.cases.pdf)
+
 
 
 1.5 Test Implementation
@@ -208,15 +209,16 @@ https://itfclasses.atlassian.net/projects/GGV?selectedItem=com.thed.zephyr.je__c
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: 
 
-[Bug reports.pdf](https://github.com/user-attachments/files/15883953/Bug.reports.pdf)
+[Bug report.pdf](https://github.com/user-attachments/files/16017781/Bug.report.pdf)
+
 
 The following is a summary of the bugs that have been found:
 
-Can not chose license expiry date - medium priority, medium severity
+Can not chose license expiry date in Personal details module - medium priority, medium severity
 
-Can not chose marital status - medium prority, medium severity
+Can not chose marital status in Personal details module - medium prority, medium severity
 
-Can not select date of birth - medium prority, medium severity
+Can not select date of birth in Personal details module - medium prority, medium severity
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
@@ -226,7 +228,8 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 The traceability matrix was generated and can be found here: 
 
-![matricea de trasabilitate](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/b7b62081-278f-4268-a044-5c87bc9ab063)
+![matricea trasabilitatii noua](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/eed22bd8-e941-49b1-897b-6af8ad085dda)
+
 
 Test execution chart was generated and can be found below.
 
