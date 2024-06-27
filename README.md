@@ -175,7 +175,8 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found:
 
-![conditii de testare](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/5855b7e4-5446-4923-adf8-1bb9e9d7a5ff)
+
+![conditii de testare nou](https://github.com/ValentinaGabu/Gabudean-Georgiana-Valentina/assets/157517316/7b77d87d-c665-4336-a799-845a684938bf)
 
 
 1.4 Test Design
