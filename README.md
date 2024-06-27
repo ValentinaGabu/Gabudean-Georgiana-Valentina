@@ -184,8 +184,7 @@ The following test conditions were found:
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:
 
-[Test cases.pdf](https://github.com/user-attachments/files/16017586/Test.cases.pdf)
-
+[Test cases.pdf](https://github.com/user-attachments/files/16017906/Test.cases.pdf)
 
 
 1.5 Test Implementation
